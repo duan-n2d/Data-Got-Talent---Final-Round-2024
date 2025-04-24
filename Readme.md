@@ -48,8 +48,8 @@ pip install numpy pandas scikit-learn matplotlib seaborn pmdarima keras statsmod
 
 ### Description of Project Components:
 - `data` folder: Contains the provided and generated data files during the analysis process.
-  - `TAB_Betting_Data.csv`: Betting transaction data provided by the organizers.
-  - `CustData.csv`: Demographic data of individual players after data exploration and cleaning.
+  - `TAB_Betting_Data.csv`: Betting transaction data provided by the organizers. [Link](https://zrcy7-my.sharepoint.com/:x:/g/personal/ndoubled26_zrcy7_onmicrosoft_com/EfXNOsY7tOlEkaOUmszG7zUBLIKjzYkPg5WO6WgiplR0XA?e=FsTXPs)
+  - `CustData.csv`: Demographic data of individual players after data exploration and cleaning. [Link](https://zrcy7-my.sharepoint.com/:x:/g/personal/ndoubled26_zrcy7_onmicrosoft_com/ESPsU6ArpRtEgsbUDKNV9JEBijfRpNtNVG_uhcA-enpiqw?e=D13sBB)
   - `TransactionData.csv`: Transaction data after removing demographic factors of players.
   - `rfm_c.csv`, `rfm_2021.csv`, `rfm_2022.csv`: Stores R, F, M metrics for each player across the entire dataset and separately for each year.
   - `ForecastTotalTurnover.csv`: Predicted revenue for Q1 2023 of the business.
