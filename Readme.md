@@ -65,7 +65,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn pmdarima keras statsmod
 
 - `RFM.ipynb`, `RFMbyYear.ipynb`: Calculates R, F, M metrics, stores them in `rfm_c.csv`, and calculates them separately by year to evaluate customer trends, storing results in `rfm_2021.csv` and `rfm_2022.csv`.
 
-- `Pentagon_Slide.pdf` and `Pentagon_Video.mp4`: The team's report on predictions and business analysis.
+- `Pentagon_Slide.pdf` and `Pentagon_Report.pdf`, `RWWA.pbix`: The team's report on predictions and business analysis.
 
 ## Visualization Analysis
 [Business Performance Report of WA TAB](https://app.powerbi.com/view?r=eyJrIjoiNGZiMDAwZTUtZjU3NC00YjM1LThmYjktMjBhZTg0NTljYmY0IiwidCI6IjY4NDJkZjllLTQwMmUtNDg1OC04OTNiLTY5YzIwNGUxOTgyMSIsImMiOjEwfQ%3D%3D&pageName=ReportSection&fbclid=IwAR3u9Ox69hszMHjlqyLpCYPYoOFMd0S-UV8hVDfp_lF802CL3RvBvzVc2f4_aem_ASIYly-TgWpv9NVkATJKZDRNGJ7RRZh5u-nsxj5ov1Oy6h_i9U8A5ETUQt3UtCGI3P3stsS0TotffyNo3ug5JVwM)
